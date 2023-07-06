@@ -1,0 +1,10 @@
+Device ID	Device Name	Device Platform
+00008030-000E189A2281802E	lixinxue	ios
+72ba6307981bdbbd217cb90be5a81d6ad79b8bb4	lixinxue	ios
+3f9080d66a383302bdf02509e79d663a4159dc1b	lixinxue	ios
+63cf6691fa0e11bfba8240002000e4a88c6ab3da	lixinxue	ios
+00008020-001825A90169002E	lixinxue	ios
+00008110-001A5DA901A1401E	lixinxue	ios
+00008101-00012CDC2151003A	lixinxue	ios
+00008110-0001289C3A40401E	lixinxue	ios
+00008030-001950413E51802E	lixinxue	ios
