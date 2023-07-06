@@ -35,5 +35,5 @@ for row_idx in range(sheet.nrows):
     line = udid + '\t' + pinyin_name + '\tios\n' 
     outfile.write(line)       
 
-workbook_new.save('devices_new.xlsx')   
+# workbook_new.save('devices_new.xlsx')   
 outfile.close()
